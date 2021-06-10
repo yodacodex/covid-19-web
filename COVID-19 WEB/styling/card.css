@@ -1,0 +1,39 @@
+
+.cardd {
+    border: 2px solid #e7e7e7;
+    transition: box-shadow 0.5s;
+    width: 70%;
+    border-radius: 0px;
+  }
+  
+  .cardd:hover {
+    box-shadow: 10px 0px 40px rgba(0,0,0, .2);
+    
+  }
+  
+  .cardd:hover{
+
+    background-color: rgb(255, 255, 255);
+  }
+
+
+
+  .btn{
+    background-color: transparent;
+    
+  }
+
+  .btn:hover{
+
+    background-color:#e7e7e7
+ 
+
+  }
+
+  a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
